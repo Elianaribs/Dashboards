@@ -26,7 +26,7 @@ Dashboards/
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/dashboards.git
+git clone https://github.com/Elianaribs/dashboards.git
 
 Acesse a pasta do dashboard em Python.
 
